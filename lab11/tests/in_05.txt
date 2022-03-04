@@ -1,0 +1,1 @@
+my_snprintf(buf, 10, "%hx", 123);
